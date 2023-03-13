@@ -12,9 +12,12 @@
 
 # Covid no Mundo
 
-A população mundial considerada é de **7.975.105.024**
+* **A população mundial considerada:** 7.975.105.024
+* **Casos acumulados:** 759.407.939.
+* **Óbitos:** 6.866.421.
+* **População completamente vacinada:** 5.108.870.333.
 
-### Casos e óbitos acumulados em todo o mundo desde o começo da pandemia.
+### Casos e óbitos acumulados no mundo.
 ![wld cases deaths cum](https://user-images.githubusercontent.com/124289899/223892717-32fe8c6f-aa33-4178-ac61-7622b45fda26.png)
 
 * O primeiro registro de **casos** no mundo foi em **04/01/2020** e o primeiro **óbito** foi registrado em **12/01/2020**, apenas **8 dias** de diferença do primeiro caso para o primeiro óbito.
@@ -30,8 +33,6 @@ A população mundial considerada é de **7.975.105.024**
 ![wldanocasos](https://user-images.githubusercontent.com/124289899/224578986-1fc93567-56d8-410a-bffb-49cc9ecf5a78.png)
 ![wldanoobitos](https://user-images.githubusercontent.com/124289899/224579602-1121ebd8-9eb3-47a2-afbb-3b432ae5c328.png)
 
-## Abaixo são mostrados os gráficos por meses.
-
 ### Casos e óbitos no mundo por meses
 ![casos e obitos mes](https://user-images.githubusercontent.com/124289899/224444650-75d56459-5409-4f94-8c32-24403521acf4.png)
 Acima vemos os casos e óbitos por meses, já nos mostrando quais meses com os números mais altos e como o covid se comportou durante o ano.
@@ -41,6 +42,15 @@ Acima vemos os casos e óbitos por meses, já nos mostrando quais meses com os n
 * No ano de **2022** os casos variaram entre **10 e 90 milhões** tendo o mês meses **janeiro** e **dezembro** como os mais altos chegando nos **90 milhões** e também sendo o **ano com mais casos acumulados**, cerca de **450 milhões**. E o mês com mais óbitos foi **fevereiro** com cerca de **280 mil**
 * **2023** começou com **22 milhões** de casos e até o mês de março se manteve em queda. Em óbitos, o mês de **janeiro** teve um pico de **125 mil**, números que desde abril de **2022** não eram tão altos.
 
+## Países líderes em casos de covid - 07/03/2023.
+* **1 - Estados Unidos:** 102.247.392.
+* **2 - China:** 99.109.603.
+* **3 - Índia:** 44.688.367.
+* **4 - França:** 38.538.948.
+* **5 - Alemanha:** 38.221.663.
+* **6 - Brasil:** 37.076.053.
+
+## 
 ## Continentes.
 ### Casos acumulados por continentes.
 ![casoscont](https://user-images.githubusercontent.com/124289899/224581533-5874294b-9399-4210-9e18-682e39b69078.png)
