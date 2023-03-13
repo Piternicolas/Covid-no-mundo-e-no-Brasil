@@ -62,13 +62,14 @@ Acima vemos os casos e óbitos por meses, já nos mostrando quais meses com os n
 
 # Covid no Brasil.
 ![image](https://user-images.githubusercontent.com/124289899/224585053-8080721c-b621-441e-83f6-fc361645e2e8.png)
-
 * Os primeiros casos no Brasil começaram dia **27/02/20** e o primeiro óbitos dia **19/03/20**.
 * As vacinas começaram a ser aplicadas em **17/01/2021**
+* 
+* ### Casos e óbitos acumulados no Brasil.
 ![casosobitosbr](https://user-images.githubusercontent.com/124289899/224584812-2acdc27a-fb67-4673-9785-b378c21e92d9.png)
-* **2020** terminou o ano com cerca de **600 mil** casos e cerca de **170 mil** óbitos.
-* **2021** terminou o ano com cerca de **2,2 milhões** de casos e cerca de **615 mil** óbitos.
-* **2022** terminou o ano com cerca de **3,5 milhões** de casos e cerca de **690 mil** óbitos.
-* **2023** até março se acumulam **3,7 milhões** de casos e **700 mil** óbitos.
+* **2020** terminou o ano com cerca de **7,5 milhões** casos e quase **200 mil** óbitos.
+* **2021** terminou o ano com cerca de **22,5 milhões** de casos e cerca de **620 mil** óbitos.
+* **2022** terminou o ano com cerca de **36 milhões** de casos e cerca de **695 mil** óbitos.
+* **2023** até março se acumulam **37,3 milhões** de casos e **700 mil** óbitos.
 * Atualmente 18,9% dos que tiveram covid vieram a óbito.
 
