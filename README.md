@@ -51,6 +51,7 @@ Acima vemos os casos e óbitos por meses, já nos mostrando quais meses com os n
 * **6 - Brasil:** 37.076.053.
 
 ## 
+
 ## Continentes.
 ### Casos acumulados por continentes.
 ![casoscont](https://user-images.githubusercontent.com/124289899/224581533-5874294b-9399-4210-9e18-682e39b69078.png)
