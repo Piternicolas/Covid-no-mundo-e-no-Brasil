@@ -95,4 +95,13 @@ Acima vemos os casos e óbitos por meses, já nos mostrando quais meses com os n
 ### Casos e óbitos no Brasil por Meses
 ![casosobitosmesesbr](https://user-images.githubusercontent.com/124289899/224691433-de960971-134b-4581-bffe-6b6ac4e398e0.png)
 * **2020** teve o mês de **dezembro** com o maior número de casos com cerca de **1,3 milhão** e o mês de **julho** com mais óbitos, cerca de **33 mil**.
-* **2021** teve o mês de **março** com o mais número de casos com cerca de **
+* **2021** teve o mês de **março** com o maior número de casos com cerca de **2,2 milhões** e o mês de **abril** com mais óbitos, cerca de **83 mil** sendo também o mês com mais óbitos desde que começou a pandemia.
+* **2022** teve o mês de **feveiro** com maior número de casos com cerca de **3,3 milhões** e óbitos com cerca de **22 mil**.
+* **2023** tem registros até março. No atual ano temos os mêses de **janeiro** como os maiores em casos com **500 mil** e e óbitos com **4 mil**, desde que começou o ano os casos e óbitos se mantiveram em queda.
+
+![casosanosbr](https://user-images.githubusercontent.com/124289899/225031971-3fd4e46e-d0d9-48b4-9905-af087304d35c.png)
+![obitosanosbr](https://user-images.githubusercontent.com/124289899/225032029-c801af56-b413-4db5-90bd-dc0266c69be2.png)
+
+* **2021** e **2022** tiveram os números de casos muito parecidos, mas **2021** continua sendo o ano com mais **casos novos** e também com mais **óbitos**.
+* Atualmente **54,5%** dos casos e **51,7%** dos óbitos da **América do Sul** são apenas do **Brasil**.
+* **Brasil** está na **6**
