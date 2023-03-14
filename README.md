@@ -32,6 +32,10 @@
 ### Casos e óbitos acumulados por ano.
 ![wldanocasos](https://user-images.githubusercontent.com/124289899/224578986-1fc93567-56d8-410a-bffb-49cc9ecf5a78.png)
 ![wldanoobitos](https://user-images.githubusercontent.com/124289899/224579602-1121ebd8-9eb3-47a2-afbb-3b432ae5c328.png)
+* **2020** fechou o ano com quase **83 milhões** de casos e **1,9 milhão** de óbitos.
+* Apenas em **2021** tiveram quase **205 milhões** de casos novos e **3,5 milhões** de óbitos.
+* Apenas em **2022** tiveram quase **450 milhões** de casos novos e **1,3 milhão** de óbitos.
+* Apenas em **2023** até março teve quase **30 milhões** de casos novos e **170 mil** óbitos.
 
 ### Casos e óbitos no mundo por meses
 ![casos e obitos mes](https://user-images.githubusercontent.com/124289899/224444650-75d56459-5409-4f94-8c32-24403521acf4.png)
@@ -73,15 +77,19 @@ Acima vemos os casos e óbitos por meses, já nos mostrando quais meses com os n
 ### Óbitos por continentes.
 ![obitoscont](https://user-images.githubusercontent.com/124289899/224581670-973f5a16-e22b-4cec-ab8d-8c8bd952e1fe.png)
 * **1 - Europa:** 2 milhões de óbitos (0,8% dos que tiveram covid).
-* **2 - Ásia:** 1,6 milhões de óbitos (0,7% dos que tiveram covid).
-* **3 - América do Norte:** 1,5 milhões de óbitos (1,2% dos que tiveram covid).
-* **4 - América do Sul:** 1,3 milhões de óbitos (1,9% dos que tiveram covid).
+* **2 - Ásia:** 1,6 milhão de óbitos (0,7% dos que tiveram covid).
+* **3 - América do Norte:** 1,5 milhão de óbitos (1,2% dos que tiveram covid).
+* **4 - América do Sul:** 1,3 milhão de óbitos (1,9% dos que tiveram covid).
 * **5 - África:** 260 mil óbitos (2% dos que tiveram covid).
 * **6 - Oceania:** 25 mil óbitos (0,1% dos que tiveram covid).
 
 # Covid no Brasil.
 ![image](https://user-images.githubusercontent.com/124289899/224585053-8080721c-b621-441e-83f6-fc361645e2e8.png)
 * Os primeiros casos no Brasil começaram dia **27/02/2020** e o primeiro óbitos dia **19/03/2020**.
+* **População:** 215.313.504.
+* **Casos acumulados:** 37.076.053. (**17,2%** da população brasileira)
+* **Óbitos:** 699.276. (**0,3%** da população brasileira e **1,8%** dos que tiveram covid)
+* **População completamenta vacinada:** 175.899.966. (**81,7%** da população brasileira)
 * As vacinas começaram a ser aplicadas em **17/01/2021**
 
 ### Casos e óbitos acumulados no Brasil.
@@ -90,7 +98,6 @@ Acima vemos os casos e óbitos por meses, já nos mostrando quais meses com os n
 * **2021** terminou o ano com cerca de **22,5 milhões** de casos e cerca de **620 mil** óbitos.
 * **2022** terminou o ano com cerca de **36 milhões** de casos e cerca de **695 mil** óbitos.
 * **2023** até março se acumulam **37,3 milhões** de casos e **700 mil** óbitos.
-* Atualmente 18,9% dos que tiveram covid vieram a óbito.
 
 ### Casos e óbitos no Brasil por Meses
 ![casosobitosmesesbr](https://user-images.githubusercontent.com/124289899/224691433-de960971-134b-4581-bffe-6b6ac4e398e0.png)
@@ -104,4 +111,12 @@ Acima vemos os casos e óbitos por meses, já nos mostrando quais meses com os n
 
 * **2021** e **2022** tiveram os números de casos muito parecidos, mas **2021** continua sendo o ano com mais **casos novos** e também com mais **óbitos**.
 * Atualmente **54,5%** dos casos e **51,7%** dos óbitos da **América do Sul** são apenas do **Brasil**.
-* **Brasil** está na **6**
+
+* ### **Brasil** está na **6ª** posição nos países líderes de casos e na **2ª** posição nos países líderes em óbitos por covid.
+
+## Conclusões.
+Com os gráficos facilitando a visualização, pudemos ver quais os valores máximos que os casos e os óbitos atingiram desde o começo da pandemia. O ranking de continentes e países mais afetados e também as principais informações sobre o covid no Brasil, quando começou, quando teve os primeiros óbitos, as primeiras vacinas, população brasileira. Os valores são acompanhados pelas porcentagens da população total e dos que tiveram covid.
+Todos os dados dessa apresentação foi retirado do **link** que está no **começo da pagina** e foi trabalhado dentro de um notebook no **google colab**, os dados de **2023** tem o limite até o dia **07/03/2023**.
+
+
+
