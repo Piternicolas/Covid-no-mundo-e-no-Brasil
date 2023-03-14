@@ -43,6 +43,7 @@ Acima vemos os casos e óbitos por meses, já nos mostrando quais meses com os n
 * **2023** começou com **22 milhões** de casos e até o mês de março se manteve em queda. Em óbitos, o mês de **janeiro** teve um pico de **125 mil**, números que desde abril de **2022** não eram tão altos.
 
 ## Países líderes em casos de covid - 07/03/2023.
+![lideres casos](https://user-images.githubusercontent.com/124289899/224871901-db2d673b-d9d8-4d6d-b27f-d629a1ec9864.png)
 * **1 - Estados Unidos:** 102.247.392.
 * **2 - China:** 99.109.603.
 * **3 - Índia:** 44.688.367.
@@ -50,9 +51,16 @@ Acima vemos os casos e óbitos por meses, já nos mostrando quais meses com os n
 * **5 - Alemanha:** 38.221.663.
 * **6 - Brasil:** 37.076.053.
 
-## 
+## Países líderes em óbitos por covid - 07/03/2023.
+![lideres obitos](https://user-images.githubusercontent.com/124289899/224872036-92d2d38f-2999-4e39-ba6f-f66676d4172b.png)
+* **1 - Estados Unidos:** 1.111.342.
+* **2 - Brasil:** 699.276.
+* **3 - Índia:** 530.775.
+* **4 - Rússia:** 396.378.
+* **5 - México:** 333.100.
 
 ## Continentes.
+
 ### Casos acumulados por continentes.
 ![casoscont](https://user-images.githubusercontent.com/124289899/224581533-5874294b-9399-4210-9e18-682e39b69078.png)
 * **1 - Europa:** **250 milhões** de casos (**33,3%** da população).
@@ -73,10 +81,10 @@ Acima vemos os casos e óbitos por meses, já nos mostrando quais meses com os n
 
 # Covid no Brasil.
 ![image](https://user-images.githubusercontent.com/124289899/224585053-8080721c-b621-441e-83f6-fc361645e2e8.png)
-* Os primeiros casos no Brasil começaram dia **27/02/20** e o primeiro óbitos dia **19/03/20**.
+* Os primeiros casos no Brasil começaram dia **27/02/2020** e o primeiro óbitos dia **19/03/2020**.
 * As vacinas começaram a ser aplicadas em **17/01/2021**
-* 
-* ### Casos e óbitos acumulados no Brasil.
+
+### Casos e óbitos acumulados no Brasil.
 ![casosobitosbr](https://user-images.githubusercontent.com/124289899/224584812-2acdc27a-fb67-4673-9785-b378c21e92d9.png)
 * **2020** terminou o ano com cerca de **7,5 milhões** casos e quase **200 mil** óbitos.
 * **2021** terminou o ano com cerca de **22,5 milhões** de casos e cerca de **620 mil** óbitos.
@@ -84,3 +92,7 @@ Acima vemos os casos e óbitos por meses, já nos mostrando quais meses com os n
 * **2023** até março se acumulam **37,3 milhões** de casos e **700 mil** óbitos.
 * Atualmente 18,9% dos que tiveram covid vieram a óbito.
 
+### Casos e óbitos no Brasil por Meses
+![casosobitosmesesbr](https://user-images.githubusercontent.com/124289899/224691433-de960971-134b-4581-bffe-6b6ac4e398e0.png)
+* **2020** teve o mês de **dezembro** com o maior número de casos com cerca de **1,3 milhão** e o mês de **julho** com mais óbitos, cerca de **33 mil**.
+* **2021** teve o mês de **março** com o mais número de casos com cerca de **
