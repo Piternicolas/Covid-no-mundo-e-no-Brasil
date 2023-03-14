@@ -6,44 +6,43 @@
 
 ### Há muito tempo o covid-19 vem impactando todo o mundo e levando muitas vidas, já se passaram 3 anos que convivemos com essa pandemia e durante esse tempo tiveram altos e baixos nos casos e nos óbitos. Irei apresentar os casos e óbitos em gráficos e também informações adicionais.
 
-### Fonte: https://github.com/owid/covid-19-data/tree/master/public/data
+* ### Fonte dos dados: https://github.com/owid/covid-19-data/tree/master/public/data
 
-### Link do projeto: https://colab.research.google.com/drive/1ECp6MnEpCEni4sq_P80aH2DwJZdHB41t
+* ### Link do projeto: https://colab.research.google.com/drive/1ECp6MnEpCEni4sq_P80aH2DwJZdHB41t
 
-# Covid no Mundo
+# Covid no Mundo.
 
 * **A população mundial considerada:** 7.975.105.024
-* **Casos acumulados:** 759.407.939.
-* **Óbitos:** 6.866.421.
-* **População completamente vacinada:** 5.108.870.333.
+* **Casos acumulados:** 759.407.939.(**9,5%** da população mundial)
+* **Óbitos:** 6.866.421. (**0,08%** da população mundial e **0,9** dos que tiveram covid)
+* **População completamente vacinada:** 5.108.870.333. (64% da população mundial)
 
 ### Casos e óbitos acumulados no mundo.
 ![wld cases deaths cum](https://user-images.githubusercontent.com/124289899/223892717-32fe8c6f-aa33-4178-ac61-7622b45fda26.png)
 
-* O primeiro registro de **casos** no mundo foi em **04/01/2020** e o primeiro **óbito** foi registrado em **12/01/2020**, apenas **8 dias** de diferença do primeiro caso para o primeiro óbito.
-* Os primeros países a registrarem **casos** de covid foram **China, Finlândia e Alemanha** e o registro do primeiro **óbitos** foi na **China**.
+* Os primeiros registros de **casos** no mundo foi em **04/01/2020** e o primeiro **óbito** foi registrado em **12/01/2020**, apenas **8 dias** de diferença do primeiro caso para o primeiro óbito.
+* Os primeros países a registrarem **casos** de covid foram **China, Finlândia e Alemanha** e o registro do primeiro **óbito** foi na **China**.
 * Ao final de **2020** já se acumulavam cerca de **70 milhões** de casos e **1,5 milhão** de óbitos (2,14% dos que tiveram covid).
 * Ao final de **2021** se acumulavam cerca de **270 milhões** de casos e **5,25 milhões** de óbitos (1,94% dos que tiveram covid).
 * Ao final de **2022** se acumulavam cerca de **645 milhões** de casos e **6,65 milhões** de óbitos (1,03% dos que tiveram covid).
-* Hoje dia **08/03/2023** se acumulam **755 milhões** de casos e **6,82 milhões** de óbitos (0,90% dos que tiveram covid)
+* Hoje dia **07/03/2023** se acumulam **755 milhões** de casos e **6,82 milhões** de óbitos (0,90% dos que tiveram covid)
 
-* Atualmente temos **5,1 bilhão** de pessoas completamente vacinadas (**64%** da população mundial)
 
 ### Casos e óbitos acumulados por ano.
 ![wldanocasos](https://user-images.githubusercontent.com/124289899/224578986-1fc93567-56d8-410a-bffb-49cc9ecf5a78.png)
 ![wldanoobitos](https://user-images.githubusercontent.com/124289899/224579602-1121ebd8-9eb3-47a2-afbb-3b432ae5c328.png)
 * **2020** fechou o ano com quase **83 milhões** de casos e **1,9 milhão** de óbitos.
 * Apenas em **2021** tiveram quase **205 milhões** de casos novos e **3,5 milhões** de óbitos.
-* Apenas em **2022** tiveram quase **450 milhões** de casos novos e **1,3 milhão** de óbitos.
+* Apenas em **2022** tiveram quase **450 milhões** de casos novos e **1,3 milhões** de óbitos.
 * Apenas em **2023** até março teve quase **30 milhões** de casos novos e **170 mil** óbitos.
 
-### Casos e óbitos no mundo por meses
+### Casos e óbitos no mundo por meses.
 ![casos e obitos mes](https://user-images.githubusercontent.com/124289899/224444650-75d56459-5409-4f94-8c32-24403521acf4.png)
-Acima vemos os casos e óbitos por meses, já nos mostrando quais meses com os números mais altos e como o covid se comportou durante o ano.
+Acima vemos os casos e óbitos por meses, já nos mostrando quais os meses com os números mais altos e como o covid se comportou durante os anos.
 
 * No ano de **2020** os casos se mantiveram crescendo todos os meses, tendo o mês de **dezembro** como o pior com cerca de quase **20 milhões**. E o mês com mais óbitos foi **dezembro** com cerca de **360 mil**.
 * No ano de **2021** os casos variaram entre **10 e 25 milhões** tendo também o mês de **dezembro** como o pior com **25 milhões**. E o mês com mais óbitos foi **janeiro** com cerca de **428 mil**, tambem sendo o **ano com mais óbitos** com pouco mais de **3,5 milhões**.
-* No ano de **2022** os casos variaram entre **10 e 90 milhões** tendo o mês meses **janeiro** e **dezembro** como os mais altos chegando nos **90 milhões** e também sendo o **ano com mais casos acumulados**, cerca de **450 milhões**. E o mês com mais óbitos foi **fevereiro** com cerca de **280 mil**
+* No ano de **2022** os casos variaram entre **10 e 90 milhões** tendo o mês meses **janeiro** e **dezembro** como os mais altos chegando nos **90 milhões** e também sendo o **ano com mais casos acumulados**, cerca de **450 milhões**. E o mês com mais óbitos foi **fevereiro** com cerca de **280 mil**.
 * **2023** começou com **22 milhões** de casos e até o mês de março se manteve em queda. Em óbitos, o mês de **janeiro** teve um pico de **125 mil**, números que desde abril de **2022** não eram tão altos.
 
 ## Países líderes em casos de covid - 07/03/2023.
@@ -64,7 +63,7 @@ Acima vemos os casos e óbitos por meses, já nos mostrando quais meses com os n
 * **5 - México:** 333.100.
 
 ## Continentes.
-
+![mapa-os-continentes-planeta](https://user-images.githubusercontent.com/124289899/225097662-e8809f89-518e-4198-a57c-41bd779cd330.png)
 ### Casos acumulados por continentes.
 ![casoscont](https://user-images.githubusercontent.com/124289899/224581533-5874294b-9399-4210-9e18-682e39b69078.png)
 * **1 - Europa:** **250 milhões** de casos (**33,3%** da população).
@@ -119,4 +118,6 @@ Com os gráficos facilitando a visualização, pudemos ver quais os valores máx
 Todos os dados dessa apresentação foi retirado do **link** que está no **começo da pagina** e foi trabalhado dentro de um notebook no **google colab**, os dados de **2023** tem o limite até o dia **07/03/2023**.
 
 
-
+#### Feito e apresentado por *Piter Nicolas*, links para contato abaixo:↓
+* **linkedin:** https://www.linkedin.com/in/piternicolas/
+* **instagram:** https://instagram.com/pit.nlima/
