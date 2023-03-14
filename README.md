@@ -118,6 +118,6 @@ Com os gráficos facilitando a visualização, pudemos ver quais os valores máx
 Todos os dados dessa apresentação foi retirado do **link** que está no **começo da pagina** e foi trabalhado dentro de um notebook no **google colab**, os dados de **2023** tem o limite até o dia **07/03/2023**.
 
 
-#### Feito e apresentado por *Piter Nicolas*, links para contato abaixo:↓
+### Feito e apresentado por *Piter Nicolas*, links para contato abaixo:
 * **linkedin:** https://www.linkedin.com/in/piternicolas/
 * **instagram:** https://instagram.com/pit.nlima/
