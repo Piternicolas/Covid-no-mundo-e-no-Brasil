@@ -83,7 +83,7 @@ Acima vemos os casos e óbitos por meses, já nos mostrando quais os meses com o
 * **6 - Oceania:** 25 mil óbitos (0,1% dos que tiveram covid).
 
 # Covid no Brasil.
-![image](https://user-images.githubusercontent.com/124289899/224585053-8080721c-b621-441e-83f6-fc361645e2e8.png)
+![image](https://user-images.githubusercontent.com/124289899/225347536-b7eb7779-832f-4149-83f9-539b0627f59e.png)
 * Os primeiros casos no Brasil começaram dia **27/02/2020** e o primeiro óbitos dia **19/03/2020**.
 * **População:** 215.313.504.
 * **Casos acumulados:** 37.076.053. (**17,2%** da população brasileira)
