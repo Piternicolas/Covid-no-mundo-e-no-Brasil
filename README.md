@@ -116,8 +116,7 @@ Acima vemos os casos e óbitos por meses, já nos mostrando quais os meses com o
 ## Conclusões.
 Com os gráficos facilitando a visualização, pudemos ver quais os valores máximos que os casos e os óbitos atingiram desde o começo da pandemia. O ranking de continentes e países mais afetados e também as principais informações sobre o covid no Brasil, quando começou, quando teve os primeiros óbitos, as primeiras vacinas, população brasileira. Os valores são acompanhados pelas porcentagens da população total e dos que tiveram covid.
 Todos os dados dessa apresentação foi retirado do **link** que está no **começo da pagina** e foi trabalhado dentro de um notebook no **google colab**, os dados de **2023** tem o limite até o dia **07/03/2023**.
-
-
+---
 ### Feito e apresentado por *Piter Nicolas*, links para contato abaixo:
 * **linkedin:** https://www.linkedin.com/in/piternicolas/
 * **instagram:** https://instagram.com/pit.nlima/
